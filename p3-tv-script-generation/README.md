@@ -16,17 +16,17 @@
 
 2. Clone this repository:
 
-        git clone https://github.com/lyoung13/deep-learning-nanodegree.git
-
+        git clone https://github.com/udacity/deep-learning.git
+        
     Note: There are couple minor differences between this repository and the original Udacity repository. You can read about them [in README](https://github.com/ludwiktrammer/deep-learning/tree/master/image-classification#how-is-this-repository-different-from-the-original). To follow this instructions you need to use this repository.
 
 3. Enter the folder for the image classification project:
 
-        cd p2-image-classification
+        cd tv-script-generation
 
 4. Initiate a Floyd project:
 
-        floyd init dlnd_image_classification
+        floyd init dlnd_tv_script_generation
 
 5. Run the project:
 
