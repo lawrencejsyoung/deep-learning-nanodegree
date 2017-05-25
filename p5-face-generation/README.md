@@ -18,7 +18,7 @@
 
         git clone https://github.com/udacity/deep-learning.git
 
-3. Enter the folder for the image classification project:
+3. Enter the folder for the face_generation project:
 
         cd face_generation
 
@@ -28,7 +28,7 @@
 
 5. Run the project:
 
-        floyd run gpu --env tensorflow-1.0 --mode jupyter --data R5KrjnANiKVhLWAkpXhNBe '/input'
+        floyd run -gpu --env tensorflow-1.0 --mode jupyter --data R5KrjnANiKVhLWAkpXhNBe '/input'
 
     It will be run on a machine with GPU (`--gpu`), using a Tenserflow 1.0 environment (`--env tensorflow-1.0`), as a Jupyter notebook (`--mode jupyter`)
     
