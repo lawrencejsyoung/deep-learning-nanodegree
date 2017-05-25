@@ -10,7 +10,9 @@ Our files in the GitHub repo are the most up to date, so it's the best place to 
 
 4. Create a new conda environment:
 
-'''conda create --name dlnd python=3'''
+```
+conda create --name dlnd python=3
+```
 
 5. Enter your new environment:
 	1. Mac/Linux: >> source activate dlnd
@@ -18,11 +20,14 @@ Our files in the GitHub repo are the most up to date, so it's the best place to 
 
 6. Ensure you have numpy, matplotlib, pandas, and jupyter notebook installed by doing the following:
 
-'''conda install numpy matplotlib pandas jupyter notebook'''
+```
+conda install numpy matplotlib pandas jupyter notebook'''
+```
 
 7. Run the following to open up the notebook:
 
-'''jupyter notebook dlnd-your-first-neural-network.ipynb'''
-
+```
+jupyter notebook dlnd-your-first-neural-network.ipynb
+```
 8. Follow the instructions in the notebook will lead you through the project.
 9. Ensure you've passed the unit tests in the notebook before you submit the project!
