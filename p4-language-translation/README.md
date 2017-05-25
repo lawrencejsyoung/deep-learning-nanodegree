@@ -18,9 +18,7 @@
 
         git clone https://github.com/udacity/deep-learning.git
 
-    Note: There are couple minor differences between this repository and the original Udacity repository. You can read about them [in README](https://github.com/ludwiktrammer/deep-learning/tree/master/image-classification#how-is-this-repository-different-from-the-original). To follow this instructions you need to use this repository.
-
-3. Enter the folder for the image classification project:
+3. Enter the folder for the language translation project:
 
         cd language-translation
 
