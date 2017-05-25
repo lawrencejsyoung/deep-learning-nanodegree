@@ -22,7 +22,7 @@
 
 3. Enter the folder for the image classification project:
 
-        cd p2-image-classification
+        cd image-classification
 
 4. Initiate a Floyd project:
 
