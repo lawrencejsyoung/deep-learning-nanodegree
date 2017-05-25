@@ -28,9 +28,9 @@
 
 5. Run the project:
 
-        floyd run -gpu --env tensorflow-1.0 --mode jupyter --data R5KrjnANiKVhLWAkpXhNBe '/input'
+        floyd run --gpu --env tensorflow-1.0 --mode jupyter --data R5KrjnANiKVhLWAkpXhNBe '/input'
 
-    It will be run on a machine with GPU (`--gpu`), using a Tenserflow 1.0 environment (`--env tensorflow-1.0`), as a Jupyter notebook (`--mode jupyter`)
+    It will be run on a machine with GPU (`--gpu`), using a Tenserflow 1.0 environment (`--env tensorflow-1.0`), as a Jupyter notebook (`--mode jupyter`), using dataset hosted on floydhub and specifying location ("--data  R5KrjnANiKVhLWAkpXhNBe '/input')
     
 6. Wait for the Jupyter notebook to become available and then access the URL displayed in the terminal (described as "path to jupyter notebook"). You will see the notebook.
 
