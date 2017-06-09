@@ -16,9 +16,7 @@
 
 2. Clone this repository:
 
-        git clone https://github.com/ludwiktrammer/deep-learning.git
-
-    Note: There are couple minor differences between this repository and the original Udacity repository. You can read about them [in README](https://github.com/ludwiktrammer/deep-learning/tree/master/image-classification#how-is-this-repository-different-from-the-original). To follow this instructions you need to use this repository.
+        git clone https://github.com/lyoung13/deep-learning-nanodegree.git
 
 3. Enter the folder for the image classification project:
 
